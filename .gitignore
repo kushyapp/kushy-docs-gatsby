@@ -1,0 +1,14 @@
+# Project dependencies
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+.cache
+node_modules
+yarn-error.log
+
+# Build directory
+/public
+.DS_Store
+/semantic/tasks/collections/README.md
+/semantic/tasks/config/admin/templates/less-package.js
+/semantic/tasks/admin/register.js
+/semantic/tasks/config/tasks.js
+/semantic
