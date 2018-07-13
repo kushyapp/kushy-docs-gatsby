@@ -16,7 +16,7 @@ export default class Frontpage extends Component {
     ));
 
     return (
-      <div className="Frontpage">
+      <div className="Frontpage SiteContent">
         <Sidebar data={ sidebar.edges } />
         <div className="MainContent">
           <div className="ui page">

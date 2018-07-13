@@ -5,7 +5,7 @@ import config from '../config'
 
 import Header from '../components/Header'
 import './index.css'
-import '../assets/semantic.min.css';
+import '../assets/css/semantic.css';
 
 import appleTouchIcon from '../../static/assets/favicon/apple-touch-icon.png'
 import favicon32 from '../../static/assets/favicon/favicon-32x32.png'

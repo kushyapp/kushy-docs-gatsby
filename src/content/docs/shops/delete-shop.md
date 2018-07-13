@@ -44,7 +44,7 @@ This endpoint deletes a shop.
 
 ### HTTP Request
 
-`DELETE http://kushy.net/api/v3/shops/<ID>`
+`DELETE http://kushy.net/api/v1/shops/<ID>`
 
 ### Authorization
 

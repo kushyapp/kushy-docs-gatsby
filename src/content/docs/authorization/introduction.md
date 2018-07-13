@@ -9,7 +9,7 @@ Kushy utilizes the OAuth 2 protocol to facilitate authorization. OAuth is an aut
 
 ## Creating an application
 
-Before you can get started with making OAuth requests, you’ll need to first register an application with Kushy by logging in and navigating to [the applications page](https://kushy.net/developers/apps). Once an application is registered you will obtain your `client_id` and `client_secret` (aka App Key and Secret), which will be used to identify your application when calling the Kushy API. Learn more in our getting started guide. 
+Before you can get started with making OAuth requests, you’ll need to first register an application with Kushy by logging in and navigating to [the applications page](https://kushy.net/developers/apps). Once an application is registered you will obtain your `client_id`, `callback_url`, and `client_secret` (aka App Key and Secret), which will be used to identify your application when calling the Kushy API. Learn more in our getting started guide. 
 
 > Remember: Your `client_secret` should be kept a secret! Be sure to store your client credentials securely.
 

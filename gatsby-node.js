@@ -181,6 +181,6 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
                 resolve()
             })
-        createDocsPagination(graphql, createPage);
+        // createDocsPagination(graphql, createPage);
     })
 };

@@ -91,7 +91,7 @@ This endpoint updates an existing shop with new data.
 
 ### HTTP Request
 
-`PUT http://kushy.net/api/v3/shops/<ID>`
+`PUT http://kushy.net/api/v1/shops/<ID>`
 
 ### Form Parameters
 

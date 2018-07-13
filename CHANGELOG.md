@@ -1,3 +1,23 @@
+## v1.1.0 - July 13, 2018
+
+## Doc Updates
+
+* Changed all endpoints from v3 to v1.
+* Refined Authorization application page
+* Added /states/ endpoint
+* Added /search/ endpoint
+* Added /inventory/ endpoint
+
+## CSS
+
+* Sidebar changed from "fixed" position, to a flexbox setup on desktop (while still fixed on mobile). 
+* Added max-width to code snippets (since long string names were breaking the site).
+
+## Cleaning house
+
+* Moved the Semantic UI CSS file into `assets/css/` and updated the ref in the `layouts/index.js`.
+* Deleted old useless files (SUI components, Bootstrap, etc)
+
 ## v1.0.8 - April 25, 2018
 
 * Changed format for blog posts from `blog/date-post-title-here/` to `blog/year/post-title`.

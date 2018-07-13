@@ -1,36 +1,25 @@
-# Personal Portfolio and Blog of Ryosuke
+# Kushy API Documentation
 
-A personal portfolio and blog created with the [GatsbyJS](http://gatsbyjs.org/docs/) framework to generate a static React powered website. It's lightning fast, SEO and PWA friendly, and deploys directly to a CDN like Github Pages or [Netlify](http://netlify.com). 
-
-This is a JavaScript alternative to the static site generator solutions written in [Go](https://gohugo.io) or [Ruby](https://jekyllrb.com/). It's also more fleshed out than the Gatsby Starter Blog with features like blog archives, image handling, SEO optimization, and a few more.
-
-## Structure
-
-* Home
-* Projects
-* * Pagination Archive
-* Blog
-* * Pagination Archive
-* Tags
-* * Tag Archives
-* About
+Documentation for Kushy API using GatsbyJS as a framework and static site generator (SSG).
 
 ## Post Format / Fields
 
 ```markdown
 ---
-title: Deploy a Static React Blog using GatsbyJS and Github
-date: "2018-03-21"
-section: blog
-cover_image: "./bulma-css-framework@1x.jpg"
-tags: [ 'design', 'development', 'react', 'github', 'gatsbyjs', 'ssg', 'static site generator' ]
+title: Get inventory of specific shop/brand
+route: "/inventory/menu/:slug"
+method: "get"
+page_type: "api"
+last_updated: "2018-07-13"
 ---
 
-Your post here
+Code snippets first
+
+Then your page info here
 ```
 
-* Section can be `blog` or `project`.
-* Tags must be array
+* Method is API query method (GET, POST, PUT, DELETE)
+* Route defines the page's URL slug
 * Body content can include Markdown or HTML.
 
 ## Plugins
@@ -56,7 +45,6 @@ Running on GatsbyJS, an SSG that creates static React apps.
 
 
 ## Deployment
-
 
 ### Github Pages
 

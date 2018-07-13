@@ -7,7 +7,7 @@ last_updated: "2018-04-05"
 ---
 
 ```shell
-  curl "http://kushy.net/api/v3/shops/"
+  curl "http://kushy.net/api/v1/shops/"
 ```
 
 ```javascript
@@ -100,7 +100,7 @@ This endpoint retrieves all shops.
 
 ### HTTP Request
 
-`GET http://kushy.net/api/v3/shops/?<FILTER><LIMIT>`
+`GET http://kushy.net/api/v1/shops/?<FILTER><LIMIT>`
 
 ### The strain object
 

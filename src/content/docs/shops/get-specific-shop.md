@@ -7,7 +7,7 @@ last_updated: "2018-04-05"
 ---
 
 ```shell
-  curl "http://kushy.net/api/v3/shops/:id"
+  curl "http://kushy.net/api/v1/shops/:id"
 ```
 
 ```javascript
@@ -30,7 +30,7 @@ This endpoint retrieves a specific shop.
 
 ### HTTP Request
 
-`GET http://kushy.net/api/v3/shops/<ID>`
+`GET http://kushy.net/api/v1/shops/<ID>`
 
 ### URL Parameters
 

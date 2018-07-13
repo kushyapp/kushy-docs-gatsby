@@ -1,17 +1,10 @@
 import React, { Component } from "react";
 import Link from "gatsby-link";
-import Img from "gatsby-image";
-import nicetime from '../helpers/nicetime';
 
-import kebabCase from "lodash/kebabCase";
 import 'prismjs/themes/prism-okaidia.css';
 
 import Sidebar from '../components/Sidebar';
 import SEO from '../components/SEO';
-import PostLoop from '../components/PostLoop';
-import Twitter from '../components/icons/Twitter'
-import Tumblr from '../components/icons/Tumblr'
-import ryosukeAvatar from '../assets/img/ryosuke-avatar-128.png'
 
 export default class BlogPost extends Component {
 
@@ -97,7 +90,7 @@ export default class BlogPost extends Component {
     let postDate = new Date(post.frontmatter.last_updated);
 
     return (
-        <div className="Blog">
+        <div className="Blog SiteContent">
           <Sidebar data={ sidebar.edges } />
           <div className="MainContent">
             {/*----- Reading progress only on blog -----*/}

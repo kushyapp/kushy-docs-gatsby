@@ -7,14 +7,14 @@ last_updated: "2018-04-05"
 ---
 
 ```shell
-  curl "http://kushy.net/api/v3/strains/:id"
+  curl "http://kushy.net/api/v1/strains/:id"
 ```
 
 This endpoint retrieves a specific strain.
 
 ### HTTP Request
 
-`GET http://kushy.net/api/v3/strains/<ID>`
+`GET http://kushy.net/api/v1/strains/<ID>`
 
 ### URL Parameters
 

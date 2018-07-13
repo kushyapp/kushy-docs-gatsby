@@ -403,6 +403,7 @@ p {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
+  line-height: 2.2285em;
 }
 p.header
 {
@@ -1069,16 +1070,17 @@ a.Title:hover
 /* -------------- Sidebar ---------------- */
 
 .Sidebar {
-  height: 100%;
-  max-height: 100%;
-  position: fixed;
+  width:40% !important;
+  min-width:400px;
+  position:fixed;
   top: 53px !important;
   left: 0;
   overflow:auto;
   margin: 0 !important;
   padding-top: 1em;
-  -webkit-transform: translateX(-250px);
-  transform: translateX(-250px);
+  padding-bottom: 1em;
+  -webkit-transform: translateX(-100%);
+  transform: translateX(-100%);
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
   will-change: transform;
@@ -1107,9 +1109,11 @@ a.Title:hover
 }
 
 .MainContent {
-  margin-left: 210px !important;
+  padding-top: 1em;
+  margin-left: 1rem;
   min-height: calc(100vh);
   background-color: #EFEFEF;
+  flex-grow: 1;
 }
 
 .MainContent > .segment,
@@ -1130,6 +1134,9 @@ a.Title:hover
 
 @media screen and (min-width: 1025px) {
   .Sidebar {
+    width:250px !important;
+    min-width:250px;
+    position:static;
     -webkit-transform: translateX(0);
     transform: translateX(0);
   }
@@ -1344,6 +1351,13 @@ a.Title:hover
   margin-right: 0.5rem;
 }
 
+
+/* -------------- SiteContent ---------------- */
+
+/** Makes sidebar fit alongside main content area **/
+.SiteContent {
+  display:flex;
+}
 
 /* -------------- ArticlePage ---------------- */
 
@@ -1601,6 +1615,15 @@ a.Title:hover
 }
 
 
+/** 
+* Fixes overflow issue with longer strings in <code> tags breaking layout 
+**/
+@media (min-width: 800px) {
+  .DocPost .gatsby-highlight {
+    max-width:70rem;
+  }
+}
+
 @media (max-width: 800px) {
   .DocPost .content>div {
     display: -webkit-box;
@@ -1674,7 +1697,7 @@ a.Title:hover
   .DocPost .content>h1,
   .DocPost .content>h2,
   .DocPost .content>h3 {
-    margin-right: 51%;
+    margin-right: 53% ;
   }
   .dark-box {
     width: 41%;
@@ -2137,7 +2160,7 @@ progress::-moz-progress-bar {
 
 .Pagination 
 {
-  width:50%;
+  width:48%;
   margin:2rem auto;
   display: flex;
   justify-content: space-between;

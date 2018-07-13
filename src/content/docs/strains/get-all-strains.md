@@ -7,11 +7,11 @@ last_updated: "2018-04-05"
 ---
 
 ```shell
-  curl "http://kushy.net/api/v3/strains/"
+  curl "http://kushy.net/api/v1/strains/"
 ```
 
 ```javascript
-var api = 'http://kushy.net/api/v3/strains/';
+var api = 'http://kushy.net/api/v1/strains/';
 var xmlhttp;
 xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function(){
@@ -101,7 +101,7 @@ This endpoint retrieves all strains.
 
 ### HTTP Request
 
-`GET http://kushy.net/api/v3/strains/?<FILTER><LIMIT>`
+`GET http://kushy.net/api/v1/strains/?<FILTER><LIMIT>`
 
 ### Query Parameters
 

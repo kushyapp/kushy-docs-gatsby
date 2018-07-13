@@ -71,7 +71,7 @@ export default class BlogPost extends Component {
     let postDate = new Date(page.frontmatter.last_updated);
 
     return (
-        <div className="Blog">
+        <div className="Blog SiteContent">
           <Sidebar data={ sidebar.edges } />
           <div className="MainContent">
             {/*----- Reading progress only on blog -----*/}

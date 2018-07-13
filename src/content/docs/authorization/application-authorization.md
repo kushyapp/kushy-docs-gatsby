@@ -5,10 +5,9 @@ page_type: "page"
 last_updated: "2018-04-05"
 ---
 
-The client credentials flow is used when an application needs to obtain permission to act on its own behalf. An application will exchange it’s client_id, client_secret, and grant_type=client_credentials for an application access token. An application access token can then be used to make calls to the Dwolla API on behalf of the application, for example, create a webhook subscription, retrieve events, and make calls to Dwolla API Customer related endpoints. The primary reason for obtaining an application access token is for managing webhooks and events. However, Dwolla has modified this grant type by allowing applications to access Dwolla API Customer related endpoints using the application access token.
+The application credential flow is used when an application needs to obtain permission from a user to use the Kushy API on their behalf. This gives an application access to a user's more private data and actions, such as creating or deleting a review. 
 
-
-The client credentials flow is used when an applicated needs to obtain permission from a user to use the Kushy API through their account. This gives an application access to a user's more private data and actions, such as creating or deleting a review. There are limitations to the level of access for authorized API requests based on the logged in user's permissions (business, admin, etc), and **scopes** applied during the initial authorization request. 
+There are limitations to the level of access for authorized API requests based on the logged in user's permissions (business, admin, etc), and **scopes** applied during the initial authorization request. If a scope or user level is required, the endpoint will note it.
 
 ## Process
 

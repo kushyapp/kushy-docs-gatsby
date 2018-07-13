@@ -91,7 +91,7 @@ This endpoint creates a new shop.
 
 ### HTTP Request
 
-`POST http://kushy.net/api/v3/shops/`
+`POST http://kushy.net/api/v1/shops/`
 
 ### Form Parameters
 
