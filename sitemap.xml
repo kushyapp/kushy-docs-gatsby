@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://kushy.net//docs/authorization/application-authorization/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/authorization/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/authorization/scopes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/shops/delete-shop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/shops/get-all-shops/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/shops/get-specific-shop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/shops/post-create-shop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/inventory/get-all-inventory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/shops/put-update-shop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/inventory/get-menu-inventory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/strains/delete-strain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/strains/get-all-strains/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/strains/get-specific-strain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/search/get-search-all-posts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/states/get-all-states/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//docs/states/get-specific-state/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://kushy.net//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>

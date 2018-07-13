@@ -1,0 +1,116 @@
+{
+  "assetsByChunkName": {
+    "path---docs-search-get-search-all-posts": [
+      "path---docs-search-get-search-all-posts-b486a86236dd51f425a2.js",
+      "path---docs-search-get-search-all-posts-b486a86236dd51f425a2.js.map"
+    ],
+    "path---docs-shops-delete-shop": [
+      "path---docs-shops-delete-shop-4e16111c24365536bce2.js",
+      "path---docs-shops-delete-shop-4e16111c24365536bce2.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-cc6e15071a849dea779f.js",
+      "component---src-pages-index-js-cc6e15071a849dea779f.js.map"
+    ],
+    "path---docs-authorization-application-authorization": [
+      "path---docs-authorization-application-authorization-2a9aaa2b23478d55bc37.js",
+      "path---docs-authorization-application-authorization-2a9aaa2b23478d55bc37.js.map"
+    ],
+    "path---docs-authorization-scopes": [
+      "path---docs-authorization-scopes-47e26bce9b355751f04b.js",
+      "path---docs-authorization-scopes-47e26bce9b355751f04b.js.map"
+    ],
+    "path---docs-shops-post-create-shop": [
+      "path---docs-shops-post-create-shop-2f265f2b87b55b0981b1.js",
+      "path---docs-shops-post-create-shop-2f265f2b87b55b0981b1.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---docs-shops-put-update-shop": [
+      "path---docs-shops-put-update-shop-b9dace9ef169670c63b2.js",
+      "path---docs-shops-put-update-shop-b9dace9ef169670c63b2.js.map"
+    ],
+    "path---docs-strains-get-all-strains": [
+      "path---docs-strains-get-all-strains-25c7fe571af1cdbaced9.js",
+      "path---docs-strains-get-all-strains-25c7fe571af1cdbaced9.js.map"
+    ],
+    "path---docs-strains-get-specific-strain": [
+      "path---docs-strains-get-specific-strain-4448f15327af10756e3c.js",
+      "path---docs-strains-get-specific-strain-4448f15327af10756e3c.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-23930ec9360a911a99b1.js",
+      "component---src-layouts-index-js-23930ec9360a911a99b1.js.map"
+    ],
+    "path---docs-shops-get-specific-shop": [
+      "path---docs-shops-get-specific-shop-8e898fd123a502ac7583.js",
+      "path---docs-shops-get-specific-shop-8e898fd123a502ac7583.js.map"
+    ],
+    "path---index": [
+      "path---index-e66cf476aebc9beff5b1.js",
+      "path---index-e66cf476aebc9beff5b1.js.map"
+    ],
+    "component---src-templates-doc-post-js": [
+      "component---src-templates-doc-post-js-1b716452f0a0caa49241.js",
+      "component---src-templates-doc-post-js-1b716452f0a0caa49241.js.map"
+    ],
+    "path---docs-states-get-specific-state": [
+      "path---docs-states-get-specific-state-49580a8a465ebb24a290.js",
+      "path---docs-states-get-specific-state-49580a8a465ebb24a290.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-480ab81d4c9d9b68eedb.js",
+      "build-js-styles.css",
+      "commons-480ab81d4c9d9b68eedb.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-page-post-js": [
+      "component---src-templates-page-post-js-1c684a7f6b75c9d59dba.js",
+      "component---src-templates-page-post-js-1c684a7f6b75c9d59dba.js.map"
+    ],
+    "path---docs-strains-delete-strain": [
+      "path---docs-strains-delete-strain-44059a3ba3269832ee07.js",
+      "path---docs-strains-delete-strain-44059a3ba3269832ee07.js.map"
+    ],
+    "path---docs-shops-get-all-shops": [
+      "path---docs-shops-get-all-shops-2fe75b594f485ea81bcd.js",
+      "path---docs-shops-get-all-shops-2fe75b594f485ea81bcd.js.map"
+    ],
+    "path---docs-inventory-get-all-inventory": [
+      "path---docs-inventory-get-all-inventory-b55a8a991192d7f592a4.js",
+      "path---docs-inventory-get-all-inventory-b55a8a991192d7f592a4.js.map"
+    ],
+    "path---docs-authorization-introduction": [
+      "path---docs-authorization-introduction-8ccf10a1aac771bc0810.js",
+      "path---docs-authorization-introduction-8ccf10a1aac771bc0810.js.map"
+    ],
+    "app": [
+      "app-d1d8a81c54200e51d094.js",
+      "build-js-styles.css",
+      "app-d1d8a81c54200e51d094.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---docs-inventory-get-menu-inventory": [
+      "path---docs-inventory-get-menu-inventory-1453b101e3df6552cb57.js",
+      "path---docs-inventory-get-menu-inventory-1453b101e3df6552cb57.js.map"
+    ],
+    "path---docs-states-get-all-states": [
+      "path---docs-states-get-all-states-ac49d0c650eee986a5b0.js",
+      "path---docs-states-get-all-states-ac49d0c650eee986a5b0.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
