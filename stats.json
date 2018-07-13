@@ -1,72 +1,72 @@
 {
   "assetsByChunkName": {
     "path---docs-search-get-search-all-posts": [
-      "path---docs-search-get-search-all-posts-e7c9fb48ac558e4c1967.js",
-      "path---docs-search-get-search-all-posts-e7c9fb48ac558e4c1967.js.map"
+      "path---docs-search-get-search-all-posts-96b38031a74a5ef7149d.js",
+      "path---docs-search-get-search-all-posts-96b38031a74a5ef7149d.js.map"
     ],
     "path---docs-shops-delete-shop": [
-      "path---docs-shops-delete-shop-640fa8131920afced422.js",
-      "path---docs-shops-delete-shop-640fa8131920afced422.js.map"
+      "path---docs-shops-delete-shop-9620004e40ed469094b7.js",
+      "path---docs-shops-delete-shop-9620004e40ed469094b7.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-9da2a21304f510b84c6d.js",
       "component---src-pages-index-js-9da2a21304f510b84c6d.js.map"
     ],
     "path---docs-authorization-application-authorization": [
-      "path---docs-authorization-application-authorization-8fc7a99e54d8567b6d21.js",
-      "path---docs-authorization-application-authorization-8fc7a99e54d8567b6d21.js.map"
+      "path---docs-authorization-application-authorization-e823e452b2de5b9e1bc9.js",
+      "path---docs-authorization-application-authorization-e823e452b2de5b9e1bc9.js.map"
     ],
     "path---docs-authorization-scopes": [
-      "path---docs-authorization-scopes-01aaf2e0e4cf0950fe26.js",
-      "path---docs-authorization-scopes-01aaf2e0e4cf0950fe26.js.map"
+      "path---docs-authorization-scopes-b6e7350b242424c8c484.js",
+      "path---docs-authorization-scopes-b6e7350b242424c8c484.js.map"
     ],
     "path---docs-shops-post-create-shop": [
-      "path---docs-shops-post-create-shop-d1d0fd82b0142fb15eb7.js",
-      "path---docs-shops-post-create-shop-d1d0fd82b0142fb15eb7.js.map"
+      "path---docs-shops-post-create-shop-840d14446b1b16bd7b31.js",
+      "path---docs-shops-post-create-shop-840d14446b1b16bd7b31.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---docs-shops-put-update-shop": [
-      "path---docs-shops-put-update-shop-810dedccccb494bc7f57.js",
-      "path---docs-shops-put-update-shop-810dedccccb494bc7f57.js.map"
+      "path---docs-shops-put-update-shop-1136ab40c95abc78010e.js",
+      "path---docs-shops-put-update-shop-1136ab40c95abc78010e.js.map"
     ],
     "path---docs-strains-get-all-strains": [
-      "path---docs-strains-get-all-strains-7ced1ccf52b06ca49c7c.js",
-      "path---docs-strains-get-all-strains-7ced1ccf52b06ca49c7c.js.map"
+      "path---docs-strains-get-all-strains-d2600b5949c4fcd4d3eb.js",
+      "path---docs-strains-get-all-strains-d2600b5949c4fcd4d3eb.js.map"
     ],
     "path---docs-strains-get-specific-strain": [
-      "path---docs-strains-get-specific-strain-5a7a90157c4955d75915.js",
-      "path---docs-strains-get-specific-strain-5a7a90157c4955d75915.js.map"
+      "path---docs-strains-get-specific-strain-3422df634fd69124eef2.js",
+      "path---docs-strains-get-specific-strain-3422df634fd69124eef2.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-23930ec9360a911a99b1.js",
       "component---src-layouts-index-js-23930ec9360a911a99b1.js.map"
     ],
     "path---docs-shops-get-specific-shop": [
-      "path---docs-shops-get-specific-shop-eff8276c2e2261b43997.js",
-      "path---docs-shops-get-specific-shop-eff8276c2e2261b43997.js.map"
+      "path---docs-shops-get-specific-shop-f7ba1db49a3ed8a945a3.js",
+      "path---docs-shops-get-specific-shop-f7ba1db49a3ed8a945a3.js.map"
     ],
     "path---docs-objects-meta": [
-      "path---docs-objects-meta-f1d57e0e73f1c2db7971.js",
-      "path---docs-objects-meta-f1d57e0e73f1c2db7971.js.map"
+      "path---docs-objects-meta-e4b42992a3a72397347b.js",
+      "path---docs-objects-meta-e4b42992a3a72397347b.js.map"
     ],
     "path---index": [
-      "path---index-858426b9a31e006d0f53.js",
-      "path---index-858426b9a31e006d0f53.js.map"
+      "path---index-fc1c1b34405d4afa1385.js",
+      "path---index-fc1c1b34405d4afa1385.js.map"
     ],
     "component---src-templates-doc-post-js": [
       "component---src-templates-doc-post-js-f4a9cda26412504a3698.js",
       "component---src-templates-doc-post-js-f4a9cda26412504a3698.js.map"
     ],
     "path---docs-states-get-specific-state": [
-      "path---docs-states-get-specific-state-c8412cacf72551cd73cd.js",
-      "path---docs-states-get-specific-state-c8412cacf72551cd73cd.js.map"
+      "path---docs-states-get-specific-state-0b963b9a3add7e78f05a.js",
+      "path---docs-states-get-specific-state-0b963b9a3add7e78f05a.js.map"
     ],
     "path---docs-photos-get-specific-photo": [
-      "path---docs-photos-get-specific-photo-b980d92ef6983609c979.js",
-      "path---docs-photos-get-specific-photo-b980d92ef6983609c979.js.map"
+      "path---docs-photos-get-specific-photo-b05529a817aded45cef3.js",
+      "path---docs-photos-get-specific-photo-b05529a817aded45cef3.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -83,46 +83,46 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-photos-get-post-photos": [
-      "path---docs-photos-get-post-photos-5772311196300532c556.js",
-      "path---docs-photos-get-post-photos-5772311196300532c556.js.map"
+      "path---docs-photos-get-post-photos-97a872b8025aecc39b9f.js",
+      "path---docs-photos-get-post-photos-97a872b8025aecc39b9f.js.map"
     ],
     "path---docs-photos-get-all-photos": [
-      "path---docs-photos-get-all-photos-e519e892a520a24ba9da.js",
-      "path---docs-photos-get-all-photos-e519e892a520a24ba9da.js.map"
+      "path---docs-photos-get-all-photos-ad1d9b19084ce9a64a98.js",
+      "path---docs-photos-get-all-photos-ad1d9b19084ce9a64a98.js.map"
     ],
     "component---src-templates-page-post-js": [
       "component---src-templates-page-post-js-01d23c1174bf8998aacb.js",
       "component---src-templates-page-post-js-01d23c1174bf8998aacb.js.map"
     ],
     "path---docs-strains-delete-strain": [
-      "path---docs-strains-delete-strain-c25c3560298ef2454b93.js",
-      "path---docs-strains-delete-strain-c25c3560298ef2454b93.js.map"
+      "path---docs-strains-delete-strain-49fbdd8f86732a515b8e.js",
+      "path---docs-strains-delete-strain-49fbdd8f86732a515b8e.js.map"
     ],
     "path---docs-shops-get-all-shops": [
-      "path---docs-shops-get-all-shops-58c07ab942b960be7c93.js",
-      "path---docs-shops-get-all-shops-58c07ab942b960be7c93.js.map"
+      "path---docs-shops-get-all-shops-e8c1f74d776dbee179bc.js",
+      "path---docs-shops-get-all-shops-e8c1f74d776dbee179bc.js.map"
     ],
     "path---docs-inventory-get-all-inventory": [
-      "path---docs-inventory-get-all-inventory-8b641842d0e133223b5b.js",
-      "path---docs-inventory-get-all-inventory-8b641842d0e133223b5b.js.map"
+      "path---docs-inventory-get-all-inventory-b7d389c80a4ec2e9fecc.js",
+      "path---docs-inventory-get-all-inventory-b7d389c80a4ec2e9fecc.js.map"
     ],
     "path---docs-authorization-introduction": [
-      "path---docs-authorization-introduction-8e2c11e8e797d1cd7b0d.js",
-      "path---docs-authorization-introduction-8e2c11e8e797d1cd7b0d.js.map"
+      "path---docs-authorization-introduction-cc1797f18a35e11c0a50.js",
+      "path---docs-authorization-introduction-cc1797f18a35e11c0a50.js.map"
     ],
     "app": [
-      "app-a70c531c0b13751c348c.js",
+      "app-30844ea7ee08cb177f69.js",
       "build-js-styles.css",
-      "app-a70c531c0b13751c348c.js.map",
+      "app-30844ea7ee08cb177f69.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-inventory-get-menu-inventory": [
-      "path---docs-inventory-get-menu-inventory-760f0728704a00ade3ba.js",
-      "path---docs-inventory-get-menu-inventory-760f0728704a00ade3ba.js.map"
+      "path---docs-inventory-get-menu-inventory-7fedfe0fa11602828117.js",
+      "path---docs-inventory-get-menu-inventory-7fedfe0fa11602828117.js.map"
     ],
     "path---docs-states-get-all-states": [
-      "path---docs-states-get-all-states-0f5c697f37f39a17c81f.js",
-      "path---docs-states-get-all-states-0f5c697f37f39a17c81f.js.map"
+      "path---docs-states-get-all-states-7b8b7e78a400d7753118.js",
+      "path---docs-states-get-all-states-7b8b7e78a400d7753118.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
