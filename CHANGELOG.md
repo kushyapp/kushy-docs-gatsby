@@ -1,3 +1,9 @@
+## v1.1.1 - July 20, 2018
+
+* Updated CNAME to blog.kushy.net
+* Added font files as fallback in static folder
+* Removed the pathPrefix from gatsby-config to enable the Kushy subdomain
+
 ## v1.1.0 - July 13, 2018
 
 ## Doc Updates

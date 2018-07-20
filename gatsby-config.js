@@ -1,9 +1,8 @@
 module.exports = {
-  pathPrefix: '/kushy-docs-gatsby',
   siteMetadata: {
     title: `Kushy API Documentation`,
     description: `Kushy API documentation, guides, and reference material to assist developers`,
-    siteUrl: `http://kushy.net/`,
+    siteUrl: `http://blog.kushy.net/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -63,7 +62,7 @@ module.exports = {
         short_name: "Kushy API Docs",
         start_url: "/",
         background_color: "#F5F5F5",
-        theme_color: "#005CDD",
+        theme_color: "#CC2029",
         display: "minimal-ui",
         icons: [
           {

@@ -1,6 +1,6 @@
 {
-  "name": "ryosuke-gatsby-blog",
-  "description": "Personal Portfolio and Blog of Ryosuke",
+  "name": "kushy-gatsby-docs",
+  "description": "Documentation for the Kushy API",
   "version": "1.0.0",
   "author": "Ryosuke <ryosuke.san.hana@gmail.com>",
   "dependencies": {
