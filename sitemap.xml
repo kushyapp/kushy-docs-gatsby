@@ -3,22 +3,22 @@
 <url> <loc>http://blog.kushy.net//docs/authorization/application-authorization/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/authorization/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/authorization/scopes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//docs/search/get-search-all-posts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//docs/states/get-all-states/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//docs/states/get-specific-state/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/inventory/get-all-inventory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/inventory/get-menu-inventory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/objects/meta/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/photos/get-all-photos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/photos/get-post-photos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/photos/get-specific-photo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://blog.kushy.net//docs/search/get-search-all-posts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/shops/delete-shop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/shops/get-all-shops/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/shops/get-specific-shop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/shops/post-create-shop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/shops/put-update-shop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://blog.kushy.net//docs/states/get-specific-state/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://blog.kushy.net//docs/states/get-all-states/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://blog.kushy.net//docs/strains/get-all-strains/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/strains/delete-strain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://blog.kushy.net//docs/strains/get-all-strains/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//docs/strains/get-specific-strain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://blog.kushy.net//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
